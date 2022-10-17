@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Технология информационного моделирования, или BIM, это подход к возведению, оснащению, обеспечению эксплуатации и ремонту здания, предполагающий сбор и комплексную обработку в процессе проектирования всей архитектурно-конструкторской, технологической, экономической и иной информации о здании, когда здание и все, что имеет к нему отношение, рассматривается как единый объект.
