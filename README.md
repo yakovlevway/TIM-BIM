@@ -7,3 +7,4 @@ https://drive.google.com/drive/folders/1PBLST6zUl31Axh6RD6Zxz0i_aYZC9u8g?usp=sha
 ![Снимок экрана 2022-10-18 091325](https://user-images.githubusercontent.com/44827210/196349950-7d354eca-26d3-49fa-8110-8d14f546cd4b.png)
 
 [НТД и НПД.pdf](https://github.com/yakovlevway/TIM-BIM/files/9809011/default.pdf)
+![pictire](https://user-images.githubusercontent.com/44827210/199445127-d67f3beb-ef98-489e-b2bb-7833af3658d5.PNG)
